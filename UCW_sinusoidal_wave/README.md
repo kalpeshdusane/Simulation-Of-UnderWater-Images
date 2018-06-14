@@ -4,6 +4,10 @@
 
 ## Result
 
+### Input Image 
+
+![input_image](UWSimImages/fish.jpg)
+
 [![Watch the video](readmeImage/preview.png)](https://youtu.be/3byld9TMBKw)
 
 <!-- Markdown link & img dfn's -->
