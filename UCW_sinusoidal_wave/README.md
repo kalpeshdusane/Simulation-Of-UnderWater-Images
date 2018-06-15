@@ -8,6 +8,8 @@
 
 ![input_image](UWSimImages/fish.jpg)
 
+### Output Simulated Video
+
 [![Watch the video](readmeImage/preview.png)](https://youtu.be/3byld9TMBKw)
 
 ## Acknowledgement
